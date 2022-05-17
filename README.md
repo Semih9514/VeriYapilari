@@ -1,1 +1,1 @@
-# VeriYapilari
+# Veri Yapilari Ödev Çalışmaları
